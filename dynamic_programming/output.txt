@@ -1,0 +1,13 @@
+caso 0: 3
+caso 1: 16
+caso 2: 20
+caso 3: 1
+caso 4: 4
+caso 5: 16
+caso 6: 7
+caso 7: 13
+caso 8: 0
+caso 9: 4
+caso 10: 30
+caso 11: 8
+caso 12: 11
