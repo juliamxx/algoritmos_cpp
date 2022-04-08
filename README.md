@@ -11,9 +11,9 @@ As questões foram aplicadas na disciplina de Algoritmos e estruturas de dados 2
 
 ## Algoritmos e estruturas utilizados
 
-- [Linked List]() - queue (FIFO) e stack (LIFO)
-- [Heap]()
-- [Hashtable]()
-- [Binary Search Tree]()
-- [Bellman-Ford Algorithm]() (caminho mínimo em grafos com pesos negativos)
-- [Dynamic Programming]()
+- [Linked List](https://github.com/juliamxx/algoritmos_cpp/tree/master/linked_lists) - queue (FIFO) e stack (LIFO)
+- [Heap](https://github.com/juliamxx/algoritmos_cpp/tree/master/heap)
+- [Hashtable](https://github.com/juliamxx/algoritmos_cpp/tree/master/hashtable)
+- [Binary Search Tree](https://github.com/juliamxx/algoritmos_cpp/tree/master/binary_search_tree)
+- [Bellman-Ford Algorithm](https://github.com/juliamxx/algoritmos_cpp/tree/master/bellman_ford) (caminho mínimo em grafos com pesos negativos)
+- [Dynamic Programming](https://github.com/juliamxx/algoritmos_cpp/tree/master/dynamic_programming)
